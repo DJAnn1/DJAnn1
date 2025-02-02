@@ -1,6 +1,6 @@
 - Hi, I’m DJ Ann(@DJAnn1)
 - I’m interested in becoming a better coder in general
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning C++ and Python
 - 📫 How to reach me: discord - dj_ann
 
 <!---
